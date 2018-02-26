@@ -1,0 +1,34 @@
+html {
+  background-color:# 35800);
+  background-image: url(/home/hotel/PROJECTS/Portfolio/Images/poiu.jpg );
+}
+
+body{
+  color: white;
+width: 600px;
+height: auto;
+margin : 0 auto;
+padding: 0 20px 20px 20px;
+border :2px solid black;
+}
+
+footer{
+  background: black;
+  color: white;
+  padding: 10px 10px 10px 10px;
+}
+p{
+  font-weight:bold;
+  font-size: 15px;
+  border-style: none;
+  color: white;
+}
+
+h1{
+  color: rbga(255, 255, 255, 128);
+font-family: inherit;
+font-style: oblique;
+text-align-last: center;
+}
+ul {
+color:black;
